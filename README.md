@@ -10,3 +10,13 @@ Some error/bug:
 - Can't do underline
 -
 -
+
+Tools used:
+
+-VSCODE
+-LARAVEL FRAMEWORK
+-XAMPP
+-PHP PDFTK
+-ADOBE ACROBAT
+
+BTW The vendor folder is zipped beacuse of github limit
