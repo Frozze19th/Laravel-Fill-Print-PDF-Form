@@ -13,10 +13,10 @@ Some error/bug:
 
 Tools used:
 
--VSCODE
--LARAVEL FRAMEWORK
--XAMPP
--PHP PDFTK
--ADOBE ACROBAT
+- VSCODE
+- LARAVEL FRAMEWORK
+- XAMPP
+- PHP PDFTK
+- ADOBE ACROBAT
 
 BTW The vendor folder is zipped beacuse of github limit
